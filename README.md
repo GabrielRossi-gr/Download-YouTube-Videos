@@ -8,6 +8,8 @@
 
 ### Rodar programa
 ```
-  python3 main.py              
+  python3 main.py
+
+  // colocar url do video          
 ```
 
